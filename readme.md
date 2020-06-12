@@ -1,1 +1,1 @@
-StartUp project for the University
+Javascript Project building an automatic calculator for expenses and incomes.
